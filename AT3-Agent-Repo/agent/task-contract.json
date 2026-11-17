@@ -1,0 +1,17 @@
+{
+  "task_id": "at3-brief-001",
+  "goal": "Read three local PEFT paper summaries, write a one-page research brief with citations, and pass final-state validation.",
+  "sources": [
+    "sources/P1_lora.md",
+    "sources/P4_lora_plus.md",
+    "sources/P5_hydra_lora.md"
+  ],
+  "required_citations": [
+    "P1",
+    "P4",
+    "P5"
+  ],
+  "output_file": "final-brief.md",
+  "max_steps": 3,
+  "validator": "validator.py"
+}

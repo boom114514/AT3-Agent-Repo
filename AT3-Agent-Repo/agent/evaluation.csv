@@ -1,0 +1,3 @@
+condition,validator_pass,effective_steps,notes
+max_steps=3,true,3,write_brief on step 3
+max_steps=6,true,3,3 noop steps

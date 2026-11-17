@@ -1,0 +1,25 @@
+{
+  "tools": [
+    {
+      "name": "search_sources",
+      "description": "Search the three local source files for a keyword.",
+      "parameters": {
+        "query": "string"
+      }
+    },
+    {
+      "name": "read_source",
+      "description": "Read the full text of a source by id (P1, P4, or P5).",
+      "parameters": {
+        "source_id": "string"
+      }
+    },
+    {
+      "name": "write_brief",
+      "description": "Write the final brief to final-brief.md.",
+      "parameters": {
+        "content": "string"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "fixture": "offline",
+  "model": "none (rule-based)",
+  "network": false,
+  "gpu": false,
+  "task": "AT3-part3-brief",
+  "validator_version": "1.0"
+}
